@@ -16,6 +16,7 @@ L<=V<=U.
 
 This code employ the 'coneprog' function which has been provided in MATLAB(R2020b) or upper.
 
-For running the program, please set your file name, your sheet and your data range for matrix S on lines 5-7. Please set your data range for lower bound vector l_1 on the line 16. Please set your data range for lower bound vector u_1 on the line 23.
-
+For running the program, please set your file name, your sheet and your data range for matrix S on lines 8-10.
+Please set your data range for lower bound matrix L on the line 19.
+Please set your data range for upper bound matrix U on the line 26.
 Input files must be in .xlsx(or .xls) format.
